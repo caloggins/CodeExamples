@@ -1,9 +1,9 @@
 ﻿using MockQueryable.FakeItEasy;
-using TestingExamples.Core.Posts;
-using TestingExamples.Data;
-using TestingExamples.Data.Posts;
+using CodeExamples.Core.Posts;
+using CodeExamples.Data;
+using CodeExamples.Data.Posts;
 
-namespace TestingExamples.DataTests.Posts;
+namespace CodeExamples.DataTests.Posts;
 
 public class GetPostByIdTests
 {

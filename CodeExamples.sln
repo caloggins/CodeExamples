@@ -1,16 +1,16 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestingExamples.Api", "TestingExamples.Api\TestingExamples.Api.csproj", "{E49960E8-B3F6-405E-A3A9-D1ECD7A5FD0E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeExamples.Api", "CodeExamples.Api\CodeExamples.Api.csproj", "{E49960E8-B3F6-405E-A3A9-D1ECD7A5FD0E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestingExamples.Core", "TestingExamples.Core\TestingExamples.Core.csproj", "{9B5AC8A7-B7B8-4979-8D00-20C85A1CEDA3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeExamples.Core", "CodeExamples.Core\CodeExamples.Core.csproj", "{9B5AC8A7-B7B8-4979-8D00-20C85A1CEDA3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestingExamples.Data", "TestingExamples.Data\TestingExamples.Data.csproj", "{BE9089FD-990D-4C1E-82CD-E9A5AD270BA3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeExamples.Data", "CodeExamples.Data\CodeExamples.Data.csproj", "{BE9089FD-990D-4C1E-82CD-E9A5AD270BA3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestingExamples.ApiTests", "TestingExamples.ApiTests\TestingExamples.ApiTests.csproj", "{E32E1F77-863F-42AA-84CE-DE385551D257}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeExamples.ApiTests", "CodeExamples.ApiTests\CodeExamples.ApiTests.csproj", "{E32E1F77-863F-42AA-84CE-DE385551D257}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestingExamples.CoreTests", "TestingExamples.CoreTests\TestingExamples.CoreTests.csproj", "{793694C8-2933-4D9D-9495-60D44C922752}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeExamples.CoreTests", "CodeExamples.CoreTests\CodeExamples.CoreTests.csproj", "{793694C8-2933-4D9D-9495-60D44C922752}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestingExamples.DataTests", "TestingExamples.DataTests\TestingExamples.DataTests.csproj", "{A0F225BB-4BCC-49AD-9D1D-50ECD4C91B51}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeExamples.DataTests", "CodeExamples.DataTests\CodeExamples.DataTests.csproj", "{A0F225BB-4BCC-49AD-9D1D-50ECD4C91B51}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

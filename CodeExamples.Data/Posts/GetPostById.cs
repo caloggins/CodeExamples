@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using TestingExamples.Core.Posts;
+using CodeExamples.Core.Posts;
 
-namespace TestingExamples.Data.Posts;
+namespace CodeExamples.Data.Posts;
 
 public class GetPostById(IDataStore<Post> dataStore) : IGetPostById
 {

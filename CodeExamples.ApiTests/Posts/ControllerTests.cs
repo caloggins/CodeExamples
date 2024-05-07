@@ -1,17 +1,16 @@
 ﻿using FakeItEasy;
 using FluentAssertions;
 using Microsoft.AspNetCore.Http.HttpResults;
-using TestingExamples.Core.Posts;
-using Xunit.Abstractions;
-using Controller = TestingExamples.Api.Posts.Controller;
+using CodeExamples.Core.Posts;
+using Controller = CodeExamples.Api.Posts.Controller;
 
-namespace TestingExamples.ApiTests.Posts;
+namespace CodeExamples.ApiTests.Posts;
 
 public class ControllerTests
 {
     private readonly IGetPostById getPostById;
 
-    public ControllerTests(ITestOutputHelper testOutputHelper)
+    public ControllerTests()
     {
         getPostById = A.Fake<IGetPostById>();
         var dummy = A.Dummy<NoSuchPost>();

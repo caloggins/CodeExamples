@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.VisualStudio.TestPlatform.TestHost;
 
-namespace TestingExamples.ApiTests;
+namespace CodeExamples.ApiTests;
 
 public class TestProfilesApiApplication : WebApplicationFactory<Program>
 {

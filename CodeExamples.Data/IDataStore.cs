@@ -1,6 +1,6 @@
-using TestingExamples.Core.Posts;
+using CodeExamples.Core.Posts;
 
-namespace TestingExamples.Data;
+namespace CodeExamples.Data;
 
 public interface IDataStore<T> where T : class
 {

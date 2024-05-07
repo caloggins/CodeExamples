@@ -1,8 +1,8 @@
 ﻿using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.AspNetCore.Mvc;
-using TestingExamples.Core.Posts;
+using CodeExamples.Core.Posts;
 
-namespace TestingExamples.Api.Posts;
+namespace CodeExamples.Api.Posts;
 
 [ApiController]
 public class Controller(IGetPostById getPostById)

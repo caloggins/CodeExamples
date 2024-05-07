@@ -1,4 +1,4 @@
-﻿namespace TestingExamples.Core.Posts;
+﻿namespace CodeExamples.Core.Posts;
 
 public interface IGetPostById
 {
